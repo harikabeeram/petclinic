@@ -7,7 +7,7 @@
 ```
 	git clone https://github.com/spring-projects/spring-petclinic.git
 	cd spring-petclinic
-	./mvnw tomcat7:run
+	./mvnw tomcat7:run ok
 ```
 
 You can then access petclinic here: http://localhost:9966/petclinic/
